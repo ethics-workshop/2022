@@ -39,7 +39,8 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 MENUITEMS = [
-        ('Call for Papers', 'cfp.html'),
+        ('Program', 'program.html'),
+        ('Keynotes', 'keynote.html'),
         ('Registration/Venue', 'reg.html'),
         ]
 

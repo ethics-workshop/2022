@@ -13,26 +13,26 @@ Co-located with `the 7th IEEE European Symposium on Security and Privacy. <https
 
 
 Ethics in computer security research are increasingly
-critical.Security research not only involves human subjects and user
-data, thus is subject to ethics considerations, but also assesses the
+critical. Security research may not only involve human subjects and user
+data, thus is subject to ethics considerations, but also assess the
 security of computer systems by
-breaking them (a.k.a offensive security research), which frequently
+breaking them (a.k.a offensive security research), which often 
 raises ethical concerns. Unethical security research would cause
 significant harms to the society and in turn hurt the community.
-Unfortunately, “Ethics in Computer Security Research” is an
-under-studied area, and lacks clear guidelines and resources. The
-best-known guidelines are provided by the Menlo Report which was
-released in 2012 and covers only high-level principles. Many
-institutions may not even have the ethics-review board, and major
-security conferences have just started the ethics-review committees
-in 2021. Ethical concerns are thus not uncommon in security research.
-It is urgent for the community to provide ethical guidelines for
+“Ethics in Computer Security Research” is still an
+under-studied area. Researchers may lack clear guidelines and
+resources. 
+For instance, many research institutions still do not have IRB or the
+ethics-review board, and researchers are expected to properly handle
+ethical concerns on their own.
+Consequently, ethical concerns are not uncommon in security research.
+It is thus urgent for the community to provide ethical guidelines for
 international researchers and enforce ethics as a discipline.
 This workshop aims to provide an international forum for researchers,
 practitioners, and administrators, from security and other areas, to
 bring and exchange perspectives, lessons learned, and new insights
 into the guidelines and practices of ethical computer security
-research. As a result, it expects to generate new guidelines for
+research. As a result, it expects to help generate new guidelines for
 future ethical security research, to call for resources assisting
 security researchers, and to raise awareness of even implicit ethical
 concerns.
@@ -41,20 +41,30 @@ concerns.
 Scope and topics
 ================
 
-EthiCS welcomes submissions on studies, proposals of protocols, reflections on ethics
-in security research, as well as technical papers on protecting data
-and providing controlled safe experimental environments. Both full
-papers and work-in-progress short reports are welcome. The covered
-topics include, but not limited to:
+EthiCS welcomes submissions on studies, proposals of protocols, reflections, risk modeling, measurements on ethics in security research, as well as technical papers on protecting data and providing controlled safe experimental environments. Full papers, work-in-progress short reports, and proposals are all welcome. We would like to broadly invite submissions related to ethics in security research. The covered topics include, but not limited to:
 
-- Protocols for ethics review at institutions without IRB 
-- Protocols for ethics considerations beyond IRB
-- Modelling of threats and risks of security research
+- Ethical reflections and analyses on existing security research
+- Ethical considerations in security research
+
+  + How ethical concerns are properly addressed in existing research
+  + Implicit ethical concerns identified in security research
+
+- Proposals of ethics protocols
+  
+  + How ethical concerns can be addressed at institutions without IRB or ethics review boards
+  + Ethical considerations beyond IRB
+
+- Modeling of threats and risks of security research
 - Subject-consent management
-- Implicit ethical concerns in security research
-- Reflections and analyses on existing security research
-- Approaches for protecting sensitive data
-- Approaches for controlled and safe experimental environments
+- Techniques for ethical research
+  
+  + Approaches for protecting sensitive data
+  + Approaches for controlled and safe experimental environments
+
+- Measurements and user study
+  
+  + Risks, impact, fairness, etc.
+
 
 All papers will be published by IEEE and posted on the IEEE Xplore.
 
@@ -86,7 +96,7 @@ submissions are expected to follow the guidelines for ethical
 research and human subject research if applicable and address
 potential ethical concerns. 
 
-Best paper award(s), student travel grants
+The PC will select best paper award(s) for work that provides significant insights, ideas, or approaches for ethical security research.
 
 Papers must be submitted at https://easychair.org/conferences/?conf=ethics2022 and may be updated at any time until the submission deadline expires.
 
@@ -125,7 +135,22 @@ Workshop co-chairs
 
 Program committee
 =================
-TBA
+Currently confirmed members:
+
+- Haixin Duan,	Tsinghua University
+- William	Enck,	North Carolina State University
+- David	Evans,	University of Virginia
+- Nick	Hopper,	University of Minnesota
+- Rob	Jansen,	U.S. Naval Research Laboratory
+- Shouling Ji,	Zhejiang University
+- Xiaojing Liao,	Indiana University
+- Kangjie	Lu,	University of Minnesota
+- Zhiyun Qian,	UC Riverside
+- Elissa Redmiles,	MPI-SWS
+- Gianluca Stringhini,	Boston University
+- Yuzhe Tang,	Syracuse University
+- Luyi Xing,	Indiana University
+- Yang Zhang,	CISPA
 
 
 Contacts

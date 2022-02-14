@@ -50,7 +50,8 @@ help:
 html:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
 	cp output/index.html .
-	cp output/cfp.html .
+	cp output/keynote.html .
+	cp output/program.html .
 	cp output/reg.html .
 	cp -r output/theme .
 
