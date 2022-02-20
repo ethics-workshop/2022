@@ -146,6 +146,7 @@ Currently confirmed members:
 - Xiaojing Liao,	Indiana University
 - Kangjie	Lu,	University of Minnesota
 - Zhiyun Qian,	UC Riverside
+- Bradley Reaves, North Carolina State University
 - Elissa Redmiles,	MPI-SWS
 - Gianluca Stringhini,	Boston University
 - Yuzhe Tang,	Syracuse University
