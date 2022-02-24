@@ -141,6 +141,7 @@ Currently confirmed members:
 - William	Enck,	North Carolina State University
 - David	Evans,	University of Virginia
 - Nick	Hopper,	University of Minnesota
+- Trent Jaeger, Penn State University
 - Rob	Jansen,	U.S. Naval Research Laboratory
 - Shouling Ji,	Zhejiang University
 - Xiaojing Liao,	Indiana University
