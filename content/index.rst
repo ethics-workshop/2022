@@ -157,7 +157,7 @@ Currently confirmed members:
 
 Contacts
 ========
-Contact EthiCS 2022 chairs at: ethics-workshop2022@easychair.org.
+Contact EthiCS 2022 chairs at: ethics2022@easychair.org.
 
 
 
