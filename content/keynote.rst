@@ -5,6 +5,9 @@
 :page_order: 0
 
 
+Keynote speakers
+================
+
 We are thrilled to announce our (two) keynote speakers for EthiCS 2022 @EuroS&P’22.
 
 - `Dr. Elissa Redmiles <https://elissaredmiles.com/>`__ from MPI-SWS.
