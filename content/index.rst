@@ -106,7 +106,7 @@ Important dates
 .. role:: strike
    :class: strike
 
-- :strike:`March 21, 2022` March 28, 2022 (AoE, UTC -12): Paper submission
+- :strike:`March 21, 2022` Extended to March 28, 2022 (AoE, UTC -12): Paper submission
 - April 11, 2022: Notification
 - April 15, 2022: Camera-ready paper
 - June 10, 2022: Workshop 
