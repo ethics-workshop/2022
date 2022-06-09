@@ -9,6 +9,8 @@ Program
 
 Room: Sala Aurea on the 7th floor, Grand Hotel Savoia.
 
+Zoom: https://umn.zoom.us/j/99571895565
+
 .. raw:: html
 
   <div align="left">
