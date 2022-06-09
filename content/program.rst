@@ -7,6 +7,7 @@
 Program
 =======
 
+Room: Sala Aurea on the 7th floor, Grand Hotel Savoia.
 
 .. raw:: html
 
